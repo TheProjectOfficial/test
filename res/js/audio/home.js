@@ -7,11 +7,11 @@ const typingSound = new Audio("https://new.systemspace.network/res/audio/sfx/typ
 const inputBlurSound = new Audio("https://new.systemspace.network/res/audio/sfx/bighover.ogg"); // New audio for losing focus
 
 // Audio files for alternating playback
-const audio1 = new Audio("https://theprojectofficial.github.io/stuff/superbgm.ogg"); // Replace with actual path for audio 1
-const audio2 = new Audio("https://theprojectofficial.github.io/stuff/superbgm.ogg"); // Replace with actual path for audio 2
+const audio1 = new Audio(""); // Replace with actual path for audio 1
+const audio2 = new Audio(""); // Replace with actual path for audio 2
 
 //Ambience
-const Ambience = new Audio("https://classic.systemspace.network/res/audio/ambience/7.ogg");
+const Ambience = new Audio("");
 
 Ambience.volume = 0.5;
 Ambience.loop = true;
