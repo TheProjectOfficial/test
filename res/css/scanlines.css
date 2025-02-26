@@ -6,7 +6,7 @@ html:not(.no-scanlines):not(.force-no-scanlines) body::before {
 	top: 0;
 	width: calc(100% + 32px);
 	height: calc(100% + 32px);
-	background-image: url("https://new.systemspace.network/res/img/scanlines.png");
+	background-image: url("https://classic.systemspace.network/res/img/ui/static/overlay.png");
 	background-position: 0 0;
 	background-repeat: repeat;
 	z-index: 10000000;
@@ -23,7 +23,7 @@ html:not(.no-scanlines):not(.force-no-scanlines) body::after {
 	top: 0;
 	width: calc(100% + 32px);
 	height: calc(100% + 32px);
-	background-image: url("https://new.systemspace.network/res/img/scanlines.png");
+	background-image: url("https://classic.systemspace.network/res/img/ui/static/overlay2.png");
 	background-position: 0 0;
 	background-repeat: repeat;
 	z-index: 10000000;
